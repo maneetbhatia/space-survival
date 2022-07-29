@@ -26,11 +26,11 @@ Click to play -> https://maneetbhatia.github.io/space-survival/
 <br>
 <br>
 
-<img width="200" alt="Capture" src="images/Capture1.PNG">
+<img width="200" alt="Capture" src="images/Capture2.PNG">
 <br>
 <br>
 
-<img width="200" alt="Capture" src="images/Capture2.PNG">
+<img width="200" alt="Capture" src="images/Capture1.PNG">
 <br>
 <br>
 
@@ -44,16 +44,10 @@ Click to play -> https://maneetbhatia.github.io/space-survival/
 
 **Images By**
 
-
 Maneet Singh - https://github.com/maneetbhatia/space-survival
 <br>
 <br>
 
-**Author**
-
-Maneet Singh - https://github.com/maneetbhatia/space-survival
-<br>
-<br>
 
 **License**
 
