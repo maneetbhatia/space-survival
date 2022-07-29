@@ -22,15 +22,15 @@ Click to play -> https://maneetbhatia.github.io/space-survival/
 
 **Screenshots**
 
-<img width="960" alt="Capture" src="images/Capture.PNG">
+<img width="200" alt="Capture" src="images/Capture.PNG">
 <br>
 <br>
 
-<img width="960" alt="Capture" src="images/Capture1.PNG">
+<img width="200" alt="Capture" src="images/Capture1.PNG">
 <br>
 <br>
 
-<img width="960" alt="Capture" src="images/Capture2.PNG">
+<img width="200" alt="Capture" src="images/Capture2.PNG">
 <br>
 <br>
 
