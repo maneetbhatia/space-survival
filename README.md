@@ -45,16 +45,16 @@ Click to play -> https://maneetbhatia.github.io/space-survival/
 **Images By**
 
 
-Maneet Singh - https://maneetbhatia.github.io/space-survival/
+Maneet Singh - https://github.com/maneetbhatia/space-survival
 <br>
 <br>
 
 **Author**
 
-Maneet Singh - https://maneetbhatia.github.io/space-survival/
+Maneet Singh - https://github.com/maneetbhatia/space-survival
 <br>
 <br>
 
 **License**
 
-This project is licensed under the MIT License - see the https://maneetbhatia.github.io/space-survival/ file for details
+This project is licensed under the MIT License - see the https://github.com/maneetbhatia/space-survival file for details
